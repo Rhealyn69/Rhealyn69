@@ -73,7 +73,7 @@
 
     <section>
         <h2>Career Objective</h2>
-        <p>To obtain an entry-level position where I can utilize my skills in [Mention Specific Skill or Field] and contribute to a dynamic team. I am eager to learn and grow professionally.</p>
+        <p> Accountancy.</p>
     </section>
 
     <section>
